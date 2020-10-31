@@ -26,7 +26,7 @@ class Test_login_01(BaseTest):
         self.logger.info("Verifying HomePageTitle")
         self.driver.get(self.baseURL)
         act_title = self.driver.title
-        exp_title = 'Sample Online Shopping for Men, Women Clothing & Accessories at Bewakoof'
+        exp_title = 'Online Shopping for Men, Women Clothing & Accessories at Bewakoof'
         if act_title == exp_title:
             self.logger.info("HomePageTitle testcase is passed")
             assert True
