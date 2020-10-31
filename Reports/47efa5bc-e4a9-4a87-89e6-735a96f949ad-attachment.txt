@@ -1,0 +1,4 @@
+[32mINFO    [0m root:test_login.py:43 =====test_loginToApplication======
+[32mINFO    [0m root:test_login.py:44 Loging to Application
+[32mINFO    [0m root:test_login.py:48 Clicking on Login link
+[32mINFO    [0m root:test_login.py:52 ======Execution has been completed=======

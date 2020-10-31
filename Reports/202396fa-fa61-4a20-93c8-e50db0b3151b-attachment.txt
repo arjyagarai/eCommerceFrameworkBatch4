@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_login.py:25 =====test_homePageTitle======
+[32mINFO    [0m root:test_login.py:26 Verifying HomePageTitle
+[1m[31mERROR   [0m root:test_login.py:37 HomePageTitle testcase is failed
